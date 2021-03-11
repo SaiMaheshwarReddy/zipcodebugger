@@ -96,6 +96,7 @@ input[type="number"] {
   width: 75%;
   background-color: #d6d6d6;
   padding: 1rem;
+  -webkit-appearance: none;
 }
 
 #submitBtn {
@@ -106,6 +107,7 @@ input[type="number"] {
   font-size: 1rem;
   padding: 0.85rem;
   cursor: pointer;
+  -webkit-appearance: none;
 }
 
 .hero__section .warning {
@@ -183,9 +185,11 @@ input[type="number"] {
 
   #pincode {
     width: 68%;
+    -webkit-appearance: none;
   }
   #submitBtn {
     width: 32%;
+    -webkit-appearance: none;
   }
   .hero__section .warning {
     width: 88%;
