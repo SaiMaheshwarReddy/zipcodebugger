@@ -106,7 +106,7 @@ input[type="number"] {
   color: #fff;
   font-weight: bold;
   font-size: 1rem;
-  padding: 0.85rem;
+  padding: 0.88rem 0;
   cursor: pointer;
   -webkit-appearance: none;
   border-radius: 0;
@@ -194,6 +194,7 @@ input[type="number"] {
     width: 32%;
     -webkit-appearance: none;
     border-radius: 0;
+    padding: 0.88rem 0;
   }
   .hero__section .warning {
     width: 88%;
