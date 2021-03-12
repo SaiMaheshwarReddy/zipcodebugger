@@ -14,6 +14,8 @@ form.addEventListener("submit", (e) => {
 const URL = `https://api.postalpincode.in/pincode/${pincodeInput.value}`;
 
     getData(URL);
+
+    pincodeInput.value = "";
 })
 
 
