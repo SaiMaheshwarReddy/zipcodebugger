@@ -31,9 +31,10 @@ body {
 }
 
 .header h1,
-.footer p {
+.footer a {
   color: #ebfeff;
   text-align: center;
+  text-decoration: none;
 }
 
 .page__wrapper {
@@ -222,7 +223,7 @@ input[type="number"] {
   .result .two__column {
     width: 100%;
   }
-  .footer p {
+  .footer a {
     font-size: 0.8rem;
     font-weight: bold;
   }
